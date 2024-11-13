@@ -56,7 +56,7 @@
         updateBannerVisibility();
       }
 
-      var buildUrl = "Build";
+      var buildUrl = "Unity-Build";
       var loaderUrl = buildUrl + "/New folder.loader.js";
       var config = {
         dataUrl: buildUrl + "/New folder.data",
